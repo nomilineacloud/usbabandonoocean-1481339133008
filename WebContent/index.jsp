@@ -21,25 +21,7 @@
 <body>
 	<div class="row service-container">
 		<div class="col-lg-12 service-header">
-			<div class="row top-nav navbar-fixed-top">
-				<div class="container">
-					<a
-						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
-						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">Watson Developer Cloud</span>
-						</h3></a>
-					<nav class="top-nav--nav">
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html"><fmt:message key="application.label.services"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/"><fmt:message key="application.label.docs"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/gallery.html"><fmt:message key="application.label.appGallery"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="https://developer.ibm.com/watson/"><fmt:message key="application.label.community"/></a></li>
-					</nav>
-				</div>
-			</div>
+			
 			<div class="row header">
 			
 			</div>
